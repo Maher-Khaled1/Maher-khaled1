@@ -19,6 +19,9 @@ Currently, I'm focusing on:
 ### Programming & Development
 - C#
 - C++
+- Java
+- Python
+- JavaScript
 - ASP.NET Core
 - HTML & CSS
 - SQL
@@ -41,7 +44,6 @@ Currently, I'm focusing on:
 
 Here are some of the projects I'm working on and learning from:
 
-- 🔧 **RepairTrack** — Electronic Repair Shop Management System
 - 💊 **Pharmacy Availability System** — A system to help users find available medicines across pharmacies
 - 🏛️ **Grand Egyptian Museum AR** — An interactive museum experience using AR and smart technologies
 
