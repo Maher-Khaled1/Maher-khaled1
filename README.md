@@ -2,6 +2,10 @@
 
 ### Computer Science Student | Full Stack .NET Developer | Data Enthusiast
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,cpp,java,js,py,html,css,dotnet,git,github,visualstudio,vscode" />
+</p>
+
 I'm a Computer Science student passionate about building practical software solutions and continuously improving my problem-solving skills.
 
 I'm interested in software development, data analysis, and data science, with a focus on learning through real-world projects.
