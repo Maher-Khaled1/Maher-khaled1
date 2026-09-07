@@ -13,18 +13,6 @@ I'm interested in software development, data analysis, and data science, with a 
 ---
 
 ## 🛠️ Tech Stack
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maher-Khaled1&show_icons=true&hide_border=true" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maher-Khaled1&layout=compact&hide_border=true" />
-</p>
-
 
 ### Programming Languages
 - C#
