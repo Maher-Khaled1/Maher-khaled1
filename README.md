@@ -4,37 +4,35 @@
 
 I'm a Computer Science student passionate about building practical software solutions and continuously improving my problem-solving skills.
 
-Currently, I'm focusing on:
-
-- Full Stack Development with C# and .NET
-- Backend Development with ASP.NET Core
-- SQL and Database Design
-- Data Analysis and Data Visualization
-- Exploring Data Science and Machine Learning
+I'm interested in software development, data analysis, and data science, with a focus on learning through real-world projects.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
-### Programming & Development
+### Programming Languages
 - C#
 - C++
 - Java
-- Python
 - JavaScript
-- ASP.NET Core
-- HTML & CSS
+- Python
 - SQL
 
-### Data
-- SQL
+### Web & Backend
+- ASP.NET Core
+- HTML
+- CSS
+
+### Data & Analytics
 - Excel
 - Power BI
 - Data Analysis
 - Data Visualization
+- Data Science
 
 ### Tools
-- Git & GitHub
+- Git
+- GitHub
 - Visual Studio
 - Visual Studio Code
 
@@ -42,10 +40,11 @@ Currently, I'm focusing on:
 
 ## 🚀 Projects
 
-Here are some of the projects I'm working on and learning from:
+### 💊 Pharmacy Availability System
+A system designed to help users find available medicines across pharmacies and improve medicine availability transparency.
 
-- 💊 **Pharmacy Availability System** — A system to help users find available medicines across pharmacies
-- 🏛️ **Grand Egyptian Museum AR** — An interactive museum experience using AR and smart technologies
+### 🏛️ Grand Egyptian Museum AR
+An interactive museum experience combining mobile technology, augmented reality, indoor navigation, and smart technologies.
 
 More projects coming soon...
 
@@ -58,13 +57,14 @@ More projects coming soon...
 - SQL & Database Design
 - Data Analysis
 - Data Science
+- Machine Learning
 - Software Engineering
 
 ---
 
 ## 🎯 My Goal
 
-To become a strong software developer who can combine software engineering, data analysis, and problem-solving to build useful real-world solutions.
+To become a strong software developer who combines software engineering, data analysis, and problem-solving to build useful real-world solutions.
 
 ---
 
